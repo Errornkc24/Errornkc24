@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Errornkc24
 - 👀 I’m interested in programming.
-- 🌱 I’m currently pursuing course of diploma computer engineering. 
+- 🌱 I’m currently pursuing course of B.tech in computer science engineering. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 My contact 6353162186
 
